@@ -70,7 +70,7 @@
 	globalWaystoneCooldownMultiplier = 1.0
 	#The cooldown between usages of the warp stone in seconds. This is bound to the player, not the item, so multiple warp stones share the same cooldown.
 	#Range: > -2147483648
-	warpStoneCooldown = 300
+	warpStoneCooldown = 100
 	#The time in ticks that it takes to use a warp stone. This is the charge-up time when holding right-click.
 	#Range: > -2147483648
 	warpStoneUseTime = 32
@@ -82,11 +82,11 @@
 	scrollUseTime = 32
 	#The cooldown between usages of the inventory button in seconds.
 	#Range: > -2147483648
-	inventoryButtonCooldown = 300
+	inventoryButtonCooldown = 100
 
 [inventoryButton]
 	#Set to 'NONE' for no inventory button. Set to 'NEAREST' for an inventory button that teleports to the nearest waystone. Set to 'ANY' for an inventory button that opens the waystone selection menu. Set to a waystone name for an inventory button that teleports to a specifically named waystone.
-	inventoryButton = ""
+	inventoryButton = "ANY"
 	#The x position of the warp button in the inventory.
 	#Range: > -2147483648
 	warpButtonX = 58
