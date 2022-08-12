@@ -1,0 +1,23 @@
+
+["CCTech Config"]
+	#Range: > 1
+	"Iron Cassette Size" = 160000
+	#Range: > 1
+	"Gold Cassette Size" = 320000
+	#Range: > 1
+	"Diamond Cassette Size" = 640000
+	#Range: > 1
+	"Creative Cassette Size" = 1280000
+	#Range: > 1
+	"Cassette Default Size" = 64000
+	#Range: > 1
+	"Magnetic Tape Size" = 64000
+	#Range: > 1
+	"Iron Reel Size" = 320000
+	#Range: > 1
+	"Gold Reel Size" = 640000
+	#Range: > 1
+	"Diamond Reel Size" = 1280000
+	#Range: > 1
+	"Creative Reel Size" = 2560000
+

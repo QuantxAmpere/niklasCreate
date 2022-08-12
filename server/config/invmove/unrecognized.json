@@ -1,0 +1,22 @@
+{
+  "allowMovement": {
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "org.cyclops.everlastingabilities.client.gui.ContainerScreenAbilityContainer": true,
+    "snownee.everpotion.client.gui.UseScreen": true,
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true,
+    "mc.sayda.creraces.client.gui.HumanSelectorGUIScreen": true,
+    "mc.sayda.creraces.client.gui.UndeadSelectorGUIScreen": true,
+    "mc.sayda.creraces.client.gui.DwarfSelectorGUIScreen": true,
+    "mezz.jei.common.gui.recipes.RecipesGui": true
+  },
+  "hideBackground": {
+    "vazkii.patchouli.client.book.gui.GuiBookLanding": true,
+    "org.cyclops.everlastingabilities.client.gui.ContainerScreenAbilityContainer": true,
+    "com.legacy.blue_skies.client.gui.screen.ArcsScreen": true,
+    "mc.sayda.creraces.client.gui.HumanSelectorGUIScreen": true,
+    "mc.sayda.creraces.client.gui.UndeadSelectorGUIScreen": true,
+    "mc.sayda.creraces.client.gui.DwarfSelectorGUIScreen": true,
+    "mezz.jei.common.gui.recipes.RecipesGui": true
+  }
+}
