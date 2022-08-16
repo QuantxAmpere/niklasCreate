@@ -2,7 +2,7 @@
   "movement": {
     "inventory": true,
     "horseInventory": true,
-    "creative": true,
+    "creative": false,
     "crafting": true,
     "chest": true,
     "shulker": true,
