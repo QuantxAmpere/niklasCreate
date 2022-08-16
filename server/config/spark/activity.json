@@ -2,32 +2,6 @@
   {
     "user": {
       "type": "player",
-      "name": "FMC_LP",
-      "uniqueId": "154209d6-b265-3dfc-aa3b-4e87c484b170"
-    },
-    "time": 1660244406908,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.data-niklas.de/L6ROJPo92WF5aXg"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "FMC_LP",
-      "uniqueId": "154209d6-b265-3dfc-aa3b-4e87c484b170"
-    },
-    "time": 1660218966634,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.data-niklas.de/gVKVRYIxGljTFtk"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
       "name": "TheFlyingWurst",
       "uniqueId": "03c595c0-6271-48ba-878d-8a42777ee192"
     },
