@@ -116,7 +116,7 @@
 	# 
 	#Max Distance in blocks a Weighted Ejector can throw
 	#Range: > 0
-	maxEjectorDistance = 32
+	maxEjectorDistance = 64
 	# 
 	#Time in ticks until the next item launched by an ejector scans blocks for potential collisions
 	#Range: > 10
@@ -128,11 +128,11 @@
 		# 
 		#Maximum distance in blocks Fans can push entities.
 		#Range: > 5
-		fanPushDistance = 20
+		fanPushDistance = 32
 		# 
 		#Maximum distance in blocks from where Fans can pull entities.
 		#Range: > 5
-		fanPullDistance = 20
+		fanPullDistance = 32
 		# 
 		#Game ticks between Fans checking for anything blocking their air flow.
 		#Range: > 10
@@ -383,7 +383,7 @@
 	# 
 	#The total amount of stacks a vault can hold per block in size.
 	#Range: > 1
-	vaultCapacity = 20
+	vaultCapacity = 108
 
 # 
 #Everything related to Schematic tools
